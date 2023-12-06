@@ -3,7 +3,8 @@
 - 定制.config文件：
 - 进入工作目录输入：./scripts/diffconfig.sh > diffconfig分离出定制的插件配置，
 - 输入：nano diffconfig后会列出分离后的内容
-- [[StartBuild](https://github.com/lu-1991/AutoBuild-opwrt-Padavan/actions?query=workflow%3A%22AutoBuild-opwrt-Padavan%22)] 
+- [[StartBuild](https://github.com/
+zheng147/AutoBuild-openwrt-Padavan/actions?query=workflow%3A%22AutoBuild-openwrt-Padavan%22)] 
 
 ## 本地编译基本操作
 - 首次编译
