@@ -16,8 +16,8 @@ on:
 #    - cron: 0 16 * * *
 
 env:
-  REPO_URL: https://github.com/lu-1991/uboot-ipq60xx-build
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/JiaY-shi/openwrt
+  REPO_BRANCH: 
 #  DIY_P_SH: hanwckf/Redmi-AX6000-FIP/diy-part.sh
   SSH_ACTIONS: false
   UPLOAD_FIRMWARE: true
