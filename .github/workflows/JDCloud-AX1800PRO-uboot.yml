@@ -17,7 +17,7 @@ on:
 
 env:
   REPO_URL: https://github.com/JiaY-shi/openwrt
-  REPO_BRANCH: 
+  REPO_BRANCH: ipq60xx-devel
 #  DIY_P_SH: hanwckf/Redmi-AX6000-FIP/diy-part.sh
   SSH_ACTIONS: false
   UPLOAD_FIRMWARE: true
